@@ -50,5 +50,7 @@ You can use how many of these series you want, just keep this in mind that use e
 ## Copyright and license
 
 Licensed under the GNU GENERAL PUBLIC LICENSE Version 2, June 1991 licensing.
+
 author : Hossein Rashno
-edit & creat database : Seyed Ahmad Elahi
+
+edit : Seyed Ahmad Elahi
